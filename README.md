@@ -20,7 +20,6 @@ Algorithm_CW_BST/
 ├── task1_bst_analysis.py
 ├── task2_bst_visualizer.py
 ├── README.md
-└── screenshots/
 ```
 
 ## Опис файлів
